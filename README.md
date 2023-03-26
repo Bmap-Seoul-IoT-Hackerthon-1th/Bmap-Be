@@ -124,13 +124,13 @@ Java 11
 
 Spring boot / Spring Data Jpa / Junit5
 
-⚙️ **DevOps*
+⚙️ **Infra**
 
-AWS: EC2, RDS, SecretManager / Github
+AWS
 
 ⚙️ **DB**
 
-H2DB, MySQL
+H2DB, MySQL, AWS RDS
 
 <br>
 
